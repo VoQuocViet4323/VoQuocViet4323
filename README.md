@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Viet from Vietnam<br><br>- 🎓 Information Technology Graduate<br>- 🤖 Interested in Artificial Intelligence & Automation<br>- 💻 Full Stack Web Development<br>- ⚡ Learning Software Architecture & System Design<br>- 🌍 Planning to work and develop my career in Germany<br>- 📚 Always learning new technologies and improving programming skills</p>
+<p data-importer="text" align="left">I'm Viet from Vietnam<br><br>- 🎓 Information Technology Graduate<br>- 🤖 Interested in Artificial Intelligence & Automation<br>- 💻 Full Stack Web Development<br>- ⚡ Learning Software Architecture & System Design<br>- 🌍 Planning to work and develop my career in Vietnam<br>- 📚 Always learning new technologies and improving programming skills</p>
 
 ###
 
